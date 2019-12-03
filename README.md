@@ -1,1 +1,1 @@
-# t3-seguranca
+# SHA-256 on video blocks. 
